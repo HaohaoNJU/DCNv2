@@ -6,7 +6,7 @@ from torch.nn.modules.utils import _pair
 
 from functions.deform_conv import deform_conv, modulated_deform_conv
 
-print("load from dcn ! ")
+#print("load from dcn ! ")
 
 class DeformConv(nn.Module):
     def __init__(self,
