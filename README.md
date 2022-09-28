@@ -2,6 +2,7 @@
 A deformable convolution network api 
 
 ## Compatibality
+Below running environment has been tested fine with DCNv2
 - vPytorch 1.8.0+cu111/1.9.0+cu111
 - vUbuntu 18.04 
 - vPython 3.8(conda)/3.6
